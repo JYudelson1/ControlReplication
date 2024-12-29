@@ -1,0 +1,1 @@
+Some exploration of [Redwood's AI Control paper](https://arxiv.org/abs/2312.06942).
